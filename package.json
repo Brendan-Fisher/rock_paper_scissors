@@ -1,0 +1,23 @@
+{
+  "name": "rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "Basic rock, paper, scissors game",
+  "main": "app.js",
+  "homepage": "https://Brendan-Fisher.github.io/rock_paper_scissors",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d rock_paper_scissors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brendan-Fisher/rock_paper_scissors.git"
+  },
+  "author": "Brendan Fisher",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Brendan-Fisher/rock_paper_scissors/issues"
+  }
+}
