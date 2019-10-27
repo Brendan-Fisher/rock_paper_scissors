@@ -6,7 +6,7 @@
   "homepage": "https://Brendan-Fisher.github.io/rock_paper_scissors",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d rock_paper_scissors"
+    "deploy": "gh-pages -d ./"
   },
   "repository": {
     "type": "git",
@@ -15,6 +15,7 @@
   "author": "Brendan Fisher",
   "license": "MIT",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "node-sass": "^4.12.0"
   },
   "bugs": {

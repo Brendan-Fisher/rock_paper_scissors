@@ -90,3 +90,18 @@ header > h1 {
   color: white;
   font-weight: bold;
 }
+
+.green-glow {
+  border: 5px solid rgba(0, 255, 42, 0.884);
+  box-shadow: 0 0 10px #31b43a;
+}
+
+.red-glow {
+  border: 5px solid #fc1213;
+  box-shadow: 0 0 10px #d01115;
+}
+
+.gray-glow {
+  border: 5px solid rgb(78, 78, 78);
+  box-shadow: 0 0 10px #333;
+}
